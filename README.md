@@ -1,5 +1,7 @@
 # Whitewater-Fluid-Simulation
 
+## [The Video](https://youtu.be/OjmiXOzDObo)
+
 ## Using My Blend File
 
 I wanted to try to create a fluid simulation in Blender that was more realistic. I wasn't able to add the simulation cache file because it was too large. However, my simulation settings have all been plugged in and you can downscale whatever you chose to save some space. Bringing down the resolution divisions should probably do the trick. Also, try to bake less frames than I did, I only rendered 100 in the end.
