@@ -8,7 +8,7 @@ If you want to save on bake time I recommend not baking foam because I actually 
 
 ## Tricks I Used 
 
-I found that the liquid mesh bake was never as detailed as I wanted it. I decided to use a method I discovered with a [previous project](https://youtu.be/3oI_8MdwKiY) and added a noise texture with some distortion for the illusion of more detail. 
+I found that the liquid mesh bake was never as detailed as I wanted it. I decided to use a method I discovered with a [previous project](https://youtu.be/3oI_8MdwKiY) and added a noise texture with some distortion to the normal value of the water for the illusion of more detail. 
 
 You'll also notice from the videoe that the spray bake seemed to look like a grid. Althouh I was not able to completely remove this from my bake, I found that by moving the geometry of my spray particles away from the origin, I was able to reduce the effect in the final bake.
 
