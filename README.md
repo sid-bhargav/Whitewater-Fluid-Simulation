@@ -2,7 +2,7 @@
 
 ## Using My Blend File
 
-I wanted to try to create a fluid simulation in Blender that was more realistic. I added the simulation cache files seperately because unfortunately they turned out to be very large. I wouldn't recommend using it unless you have the 60gb of space needed. My simulation settings have all been plugged in and you can downscale whatever you chose to save some space. Bringing down the resolution divisions should probably do the trick. 
+I wanted to try to create a fluid simulation in Blender that was more realistic. I added the simulation cache files seperately because unfortunately they turned out to be very large. I wouldn't recommend using it unless you have the 60gb of space needed. My simulation settings have all been plugged in and you can downscale whatever you chose to save some space. Bringing down the resolution divisions should probably do the trick. Also, try to bake less frames than I did, I only rendered 100 in the end. 
 
 If you're using my cache file, store it in the same location as where you have the blend file and it should work. 
 
